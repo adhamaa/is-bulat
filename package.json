@@ -1,0 +1,22 @@
+{
+  "name": "is-round",
+  "version": "1.0.0",
+  "description": "is it round or not?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhamaa/is-bulat.git"
+  },
+  "keywords": [
+    "round"
+  ],
+  "author": "adhamaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhamaa/is-bulat/issues"
+  },
+  "homepage": "https://github.com/adhamaa/is-bulat#readme"
+}
