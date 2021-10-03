@@ -1,5 +1,5 @@
-function isBulat(string) {
+function isRound(string) {
   return string === "round";
 }
 
-module.exports = isBulat;
+module.exports = isRound;
